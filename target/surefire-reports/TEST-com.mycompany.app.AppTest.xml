@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.mycompany.app.AppTest" time="0.344" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="14"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="c:\maven\my-app\target\test-classes;c:\maven\my-app\target\classes;C:\Users\randy11\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\randy11\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="America/New_York"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.vm.specification.version" value="14"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="C:\Program Files (x86)\Java\jdk-14.0.1\bin"/>
+    <property name="sun.java.command" value="C:\Users\randy11\AppData\Local\Temp\surefire2429987490331448717\surefirebooter13356280813212224631.jar C:\Users\randy11\AppData\Local\Temp\surefire2429987490331448717 2020-06-30T10-15-08_172-jvmRun1 surefire4622190159245507418tmp surefire_018222788307926303527tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="c:\maven\my-app\target\test-classes;c:\maven\my-app\target\classes;C:\Users\randy11\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\randy11\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\randy11"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2020-04-14"/>
+    <property name="java.home" value="C:\Program Files (x86)\Java\jdk-14.0.1"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="c:\maven\my-app"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\randy11\AppData\Local\Temp\surefire2429987490331448717\surefirebooter13356280813212224631.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="14.0.1+7"/>
+    <property name="user.name" value="randy11"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\randy11\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\randy11\AppData\Local\Temp\"/>
+    <property name="java.version" value="14.0.1"/>
+    <property name="user.dir" value="c:\maven\my-app"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files (x86)\Java\jdk-14.0.1\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\PlasticSCM5\server;C:\Program Files\PlasticSCM5\client;C:\Oracle\Ora12\product\12.2.0\client_1\bin;C:\Oracle\ora90\BIN;C:\Program Files\Oracle\jre\1.1.8\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Program Files (x86)\IBM\Client Access\Shared;C:\Program Files (x86)\IBM\Client Access\;C:\Program Files (x86)\ShowCase\9\bin;C:\Program Files (x86)\ShowCase\9\JRE\jre\bin;C:\Program Files (x86)\ShowCase\9\JRE\jre\bin\j9vm;C:\Program Files\PuTTY\;C:\Program Files (x86)\MicroFocusUFT\bin;C:\Program Files\nodejs\;C:\Program Files (x86)\McAfee\MOVE AV Client\;C:\Program Files\Git\cmd;C:\Users\randy11\AppData\Local\Microsoft\WindowsApps;;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="14.0.1+7"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="58.0"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue" classname="com.mycompany.app.AppTest" time="0"/>
+</testsuite>
